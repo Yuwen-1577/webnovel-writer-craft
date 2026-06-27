@@ -152,7 +152,7 @@ templates/genres/           ← 37个题材模板（含风格推荐）
 
 ## 致谢
 
-基于 [webnovel-writer](https://github.com/ORIGINAL_PROJECT) 项目扩展。
+基于 [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)（5.3k⭐）扩展。原项目提供了完整的网文创作工作流（init/plan/write/review/learn/query/dashboard），本项目在此基础上注入了叙事学理论和 125 位作者风格库。
 
 风格库研究综合了 125 位中外作家的写作风格分析，覆盖 625+ 部作品。
 
@@ -160,4 +160,4 @@ templates/genres/           ← 37个题材模板（含风格推荐）
 
 ## License
 
-MIT
+[GPL-3.0](LICENSE) — 与原项目保持一致。
