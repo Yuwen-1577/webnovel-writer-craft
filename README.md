@@ -1,4 +1,4 @@
-# webnovel-craft
+# webnovel-writer-craft
 
 **给 AI 写作 Agent 注入 125 位人类作家的集体智慧。**
 
@@ -10,10 +10,10 @@ Claude Code 插件，用 `/webnovel-init`、`/webnovel-plan`、`/webnovel-write`
 
 ```bash
 # 全局安装（所有项目可用）
-git clone https://github.com/YOUR_USERNAME/webnovel-craft.git ~/.claude/skills/webnovel-craft
+git clone https://github.com/YOUR_USERNAME/webnovel-writer-craft.git ~/.claude/skills/webnovel-craft
 
 # 或项目级安装
-git clone https://github.com/YOUR_USERNAME/webnovel-craft.git .claude/skills/webnovel-craft
+git clone https://github.com/YOUR_USERNAME/webnovel-writer-craft.git .claude/skills/webnovel-craft
 ```
 
 安装后在 Claude Code 中使用 `/webnovel-init` 开始。
